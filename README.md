@@ -1,4 +1,4 @@
 # training-tracker-api
-API for training tracker
+REST API for training tracker site
 
 https://github.com/typicode/json-server
