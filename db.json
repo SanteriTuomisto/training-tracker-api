@@ -1,0 +1,40 @@
+{
+  "exercises": [
+    {
+      "title": "Front Squat",
+      "category": "Legs",
+      "description": "Good leg exercise",
+      "id": 1
+    },
+    {
+      "title": "Bench Press",
+      "category": "Chest",
+      "description": "Best chest exercise",
+      "id": 2
+    },
+    {
+      "title": "Deadlift",
+      "category": "Back",
+      "description": "Whole body exercise",
+      "id": 3
+    },
+    {
+      "title": "Pushdown",
+      "category": "Triceps",
+      "description": "Tricep exercise",
+      "id": 4
+    },
+    {
+      "title": "Pendlay row",
+      "category": "Back",
+      "description": "Power speed",
+      "id": 5
+    },
+    {
+      "title": "Dumbbell Bench Press",
+      "category": "Chest",
+      "description": "Better chest exercise",
+      "id": 6
+    }
+  ]
+}
