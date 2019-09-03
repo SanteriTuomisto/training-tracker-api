@@ -1,4 +1,40 @@
 {
+  "programs": [
+    {
+      "title": "Program 1",
+      "description": "Program 1",
+      "exercises": [
+        {
+          "value": 1,
+          "label": "Front Squat"
+        },
+        {
+          "value": 3,
+          "label": "Deadlift"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "title": "Back program",
+      "description": "Back priority",
+      "exercises": [
+        {
+          "value": 3,
+          "label": "Deadlift"
+        },
+        {
+          "value": 7,
+          "label": "Pull up"
+        },
+        {
+          "value": 5,
+          "label": "Pendlay row"
+        }
+      ],
+      "id": 2
+    }
+  ],
   "exercises": [
     {
       "title": "Front Squat",
@@ -35,6 +71,12 @@
       "category": "Chest",
       "description": "Better chest exercise",
       "id": 6
+    },
+    {
+      "title": "Pull up",
+      "category": "Back",
+      "description": "Good back exercise",
+      "id": 7
     }
   ]
 }
