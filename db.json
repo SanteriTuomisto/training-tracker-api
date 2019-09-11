@@ -54,9 +54,23 @@
     },
     {
       "exercises": {
+        "1": {
+          "id": 1,
+          "exerciseId": 3
+        }
       },
-      "workouts": {},
-      "columnOrder": [],
+      "workouts": {
+        "1": {
+          "id": 1,
+          "title": "Workout 1",
+          "exerciseIds": [
+            1
+          ]
+        }
+      },
+      "columnOrder": [
+        1
+      ],
       "title": "asd",
       "description": "",
       "id": 2
