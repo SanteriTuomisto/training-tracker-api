@@ -4,19 +4,27 @@
       "exercises": {
         "1": {
           "id": 1,
-          "exerciseId": 2
+          "exerciseId": 2,
+          "sets": 1,
+          "reps": 1
         },
         "2": {
           "id": 2,
-          "exerciseId": 1
+          "exerciseId": 1,
+          "sets": 1,
+          "reps": 1
         },
         "3": {
           "id": 3,
-          "exerciseId": 3
+          "exerciseId": 3,
+          "sets": 1,
+          "reps": 1
         },
         "4": {
           "id": 4,
-          "exerciseId": 6
+          "exerciseId": 6,
+          "sets": 1,
+          "reps": 1
         }
       },
       "workouts": {
@@ -56,7 +64,15 @@
       "exercises": {
         "1": {
           "id": 1,
-          "exerciseId": 3
+          "exerciseId": 3,
+          "sets": 1,
+          "reps": 1
+        },
+        "2": {
+          "id": 2,
+          "exerciseId": 4,
+          "sets": 1,
+          "reps": 1
         }
       },
       "workouts": {
@@ -66,12 +82,20 @@
           "exerciseIds": [
             1
           ]
+        },
+        "2": {
+          "id": 2,
+          "title": "Workout 2",
+          "exerciseIds": [
+            2
+          ]
         }
       },
       "columnOrder": [
-        1
+        1,
+        2
       ],
-      "title": "asd",
+      "title": "Program 2",
       "description": "",
       "id": 2
     }
