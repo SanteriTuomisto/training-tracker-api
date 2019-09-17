@@ -5,32 +5,32 @@
         "1": {
           "id": 1,
           "exerciseId": 2,
-          "sets": 1,
-          "reps": 1
+          "sets": "3",
+          "reps": "8"
         },
         "2": {
           "id": 2,
           "exerciseId": 1,
-          "sets": 1,
-          "reps": 1
+          "sets": "4",
+          "reps": "4"
         },
         "3": {
           "id": 3,
           "exerciseId": 3,
-          "sets": 1,
-          "reps": 1
+          "sets": "3",
+          "reps": "5"
         },
         "4": {
           "id": 4,
-          "exerciseId": 6,
-          "sets": 1,
-          "reps": 1
+          "exerciseId": 5,
+          "sets": "2",
+          "reps": "10"
         }
       },
       "workouts": {
         "1": {
           "id": 1,
-          "title": "Workout 1",
+          "title": "Legs",
           "exerciseIds": [
             2,
             3
@@ -38,14 +38,14 @@
         },
         "2": {
           "id": 2,
-          "title": "Workout 2",
+          "title": "Chest",
           "exerciseIds": [
             1
           ]
         },
         "3": {
           "id": 3,
-          "title": "Workout 3",
+          "title": "Back",
           "exerciseIds": [
             4
           ]
@@ -58,7 +58,8 @@
       ],
       "id": 1,
       "title": "Program 1",
-      "description": "Simple program"
+      "description": "Simple program",
+      "category": "Power"
     },
     {
       "exercises": {
@@ -97,7 +98,71 @@
       ],
       "title": "Program 2",
       "description": "",
-      "id": 2
+      "id": 2,
+      "category": "Volume"
+    },
+    {
+      "exercises": {
+        "1": {
+          "id": 1,
+          "exerciseId": null,
+          "sets": "3",
+          "reps": "4"
+        },
+        "2": {
+          "id": 2,
+          "exerciseId": null,
+          "sets": 0,
+          "reps": 0
+        },
+        "3": {
+          "id": 3,
+          "exerciseId": null,
+          "sets": 0,
+          "reps": 0
+        },
+        "4": {
+          "id": 4,
+          "exerciseId": null,
+          "sets": 0,
+          "reps": 0
+        }
+      },
+      "workouts": {
+        "1": {
+          "id": 1,
+          "title": "Workout 1",
+          "exerciseIds": [
+            1,
+            2
+          ]
+        },
+        "2": {
+          "id": 2,
+          "title": "Workout 2",
+          "exerciseIds": [
+            3,
+            4
+          ]
+        }
+      },
+      "columnOrder": [
+        1,
+        2
+      ],
+      "title": "Testissä",
+      "description": "",
+      "id": 3,
+      "category": "Hybrid"
+    },
+    {
+      "exercises": {},
+      "workouts": {},
+      "columnOrder": [],
+      "title": "d",
+      "description": "Test",
+      "id": 4,
+      "category": "Hybrid"
     }
   ],
   "exercises": [
